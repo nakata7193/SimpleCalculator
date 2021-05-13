@@ -29,7 +29,6 @@ namespace simple_calc
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.Button_MPlus = new System.Windows.Forms.Button();
             this.Button_C = new System.Windows.Forms.Button();
@@ -338,7 +337,6 @@ namespace simple_calc
             this.Controls.Add(this.Button_MPlus);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
