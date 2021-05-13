@@ -36,7 +36,7 @@ namespace simple_calc
             this.Button_C = new System.Windows.Forms.Button();
             this.Button_MR = new System.Windows.Forms.Button();
             this.Button_MC = new System.Windows.Forms.Button();
-            this.Button_MMinus = new System.Windows.Forms.Button();
+            this.Button_MS = new System.Windows.Forms.Button();
             this.Button_8 = new System.Windows.Forms.Button();
             this.Button_9 = new System.Windows.Forms.Button();
             this.Button_Division = new System.Windows.Forms.Button();
@@ -78,6 +78,7 @@ namespace simple_calc
             this.Button_MPlus.TabIndex = 1;
             this.Button_MPlus.Text = "M+";
             this.Button_MPlus.UseVisualStyleBackColor = true;
+            this.Button_MPlus.Click += new System.EventHandler(this.buttonMR);
             // 
             // Button_C
             // 
@@ -99,6 +100,7 @@ namespace simple_calc
             this.Button_MR.TabIndex = 3;
             this.Button_MR.Text = "MR";
             this.Button_MR.UseVisualStyleBackColor = true;
+            this.Button_MR.Click += new System.EventHandler(this.buttonMR);
             // 
             // Button_MC
             // 
@@ -109,16 +111,18 @@ namespace simple_calc
             this.Button_MC.TabIndex = 4;
             this.Button_MC.Text = "MC";
             this.Button_MC.UseVisualStyleBackColor = true;
+            this.Button_MC.Click += new System.EventHandler(this.buttonMR);
             // 
-            // Button_MMinus
+            // Button_MS
             // 
-            this.Button_MMinus.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.Button_MMinus.Location = new System.Drawing.Point(59, 98);
-            this.Button_MMinus.Name = "Button_MMinus";
-            this.Button_MMinus.Size = new System.Drawing.Size(45, 45);
-            this.Button_MMinus.TabIndex = 5;
-            this.Button_MMinus.Text = "M-";
-            this.Button_MMinus.UseVisualStyleBackColor = true;
+            this.Button_MS.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.Button_MS.Location = new System.Drawing.Point(59, 98);
+            this.Button_MS.Name = "Button_MS";
+            this.Button_MS.Size = new System.Drawing.Size(45, 45);
+            this.Button_MS.TabIndex = 5;
+            this.Button_MS.Text = "MS";
+            this.Button_MS.UseVisualStyleBackColor = true;
+            this.Button_MS.Click += new System.EventHandler(this.buttonMR);
             // 
             // Button_8
             // 
@@ -362,7 +366,7 @@ namespace simple_calc
             this.Controls.Add(this.Button_Division);
             this.Controls.Add(this.Button_Percent);
             this.Controls.Add(this.Button_7);
-            this.Controls.Add(this.Button_MMinus);
+            this.Controls.Add(this.Button_MS);
             this.Controls.Add(this.Button_MC);
             this.Controls.Add(this.Button_MR);
             this.Controls.Add(this.Button_C);
@@ -387,7 +391,7 @@ namespace simple_calc
         private System.Windows.Forms.Button Button_C;
         private System.Windows.Forms.Button Button_MR;
         private System.Windows.Forms.Button Button_MC;
-        private System.Windows.Forms.Button Button_MMinus;
+        private System.Windows.Forms.Button Button_MS;
         private System.Windows.Forms.Button Button_8;
         private System.Windows.Forms.Button Button_9;
         private System.Windows.Forms.Button Button_Division;

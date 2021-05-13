@@ -8,3 +8,13 @@ C:\Users\atana\Desktop\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\Users\atana\Desktop\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
 C:\Users\atana\Desktop\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\atana\Desktop\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\simple_calc.Form1.resources
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\atana\SimpleCalculator\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
