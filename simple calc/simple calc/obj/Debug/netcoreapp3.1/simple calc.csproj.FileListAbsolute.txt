@@ -1,0 +1,16 @@
+C:\Users\atana\source\repos\simple calc\simple calc\bin\Debug\netcoreapp3.1\simple calc.exe
+C:\Users\atana\source\repos\simple calc\simple calc\bin\Debug\netcoreapp3.1\simple calc.deps.json
+C:\Users\atana\source\repos\simple calc\simple calc\bin\Debug\netcoreapp3.1\simple calc.runtimeconfig.json
+C:\Users\atana\source\repos\simple calc\simple calc\bin\Debug\netcoreapp3.1\simple calc.runtimeconfig.dev.json
+C:\Users\atana\source\repos\simple calc\simple calc\bin\Debug\netcoreapp3.1\simple calc.dll
+C:\Users\atana\source\repos\simple calc\simple calc\bin\Debug\netcoreapp3.1\simple calc.pdb
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple_calc.Form1.resources
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple_calc.Properties.Resources.resources
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.csproj.GenerateResource.cache
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.AssemblyInfo.cs
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.dll
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.pdb
+C:\Users\atana\source\repos\simple calc\simple calc\obj\Debug\netcoreapp3.1\simple calc.genruntimeconfig.cache
